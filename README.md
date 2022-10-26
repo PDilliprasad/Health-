@@ -24,7 +24,7 @@ This is a web based application developed for health related telugu based websit
 
 ## Screenshots
 
- 📸![Screenshot 2022-10-26 090754](https://photos.app.goo.gl/nWbNsoZ5rJGb3Qcg6)
+ 📸![Screenshot 2022-10-26 090754] https://photos.app.goo.gl/nWbNsoZ5rJGb3Qcg6
 
    
 

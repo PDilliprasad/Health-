@@ -30,11 +30,11 @@ This is a web based application developed for health related telugu based websit
 
 ### About Us -
 
-![Screenshot 2022-10-26 090859](https://photos.app.goo.gl/Tzg8BRnxJCEuStz8A)
+![Screenshot 2022-10-26 090859] https://photos.app.goo.gl/Tzg8BRnxJCEuStz8A
 
 ### Privacy policy -
 
-![Screenshot 2022-10-26 090943](https://photos.app.goo.gl/mbSBb4jHfrTiNvkG8)
+![Screenshot 2022-10-26 090943] https://photos.app.goo.gl/mbSBb4jHfrTiNvkG8
 
 ## Tech Stack 💻
 

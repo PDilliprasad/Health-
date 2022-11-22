@@ -1,14 +1,12 @@
-# Health-
+# Health 
 
-# ✨ Health  ✨
-
-This is a web based application developed for health related telugu based website in india
+This is a web based application developed for health related website in india
 
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 **Project Link** - https://heal.azurewebsites.net/
 
-## Features and Functionalities 😃
+## Features and Functionalities 
 
 - Interactive and responsive UI.
 
@@ -24,17 +22,18 @@ This is a web based application developed for health related telugu based websit
 
 ## Screenshots
 
- 📸![Screenshot 2022-10-26 090754] https://photos.app.goo.gl/nWbNsoZ5rJGb3Qcg6
+   ![Screenshot 2022-11-22 183122](https://user-images.githubusercontent.com/112606781/203321186-2061459e-616a-4754-b34f-997fd8f2577b.png)
 
-   
 
 ### About Us -
 
-![Screenshot 2022-10-26 090859] https://photos.app.goo.gl/Tzg8BRnxJCEuStz8A
+
+![Screenshot 2022-11-22 183225](https://user-images.githubusercontent.com/112606781/203321207-2531879c-0661-486d-bc6d-d580fd4b7d61.png)
 
 ### Privacy policy -
 
-![Screenshot 2022-10-26 090943] https://photos.app.goo.gl/mbSBb4jHfrTiNvkG8
+
+![Screenshot 2022-11-22 183310](https://user-images.githubusercontent.com/112606781/203321229-e7946223-a77a-42de-9661-e79d448e2950.png)
 
 ## Tech Stack 💻
 
